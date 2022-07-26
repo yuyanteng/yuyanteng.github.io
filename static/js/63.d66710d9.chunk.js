@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmilk_tea=self.webpackChunkmilk_tea||[]).push([[63],{63:function(n,e,t){t.r(e),t.d(e,{default:function(){return f}});var r=t(671),u=t(144),i=t(340),a=t(557),c=t(791),l=t(184),f=function(n){(0,i.Z)(t,n);var e=(0,a.Z)(t);function t(){return(0,r.Z)(this,t),e.apply(this,arguments)}return(0,u.Z)(t,[{key:"render",value:function(){return(0,l.jsx)("div",{children:"login"})}}]),t}(c.Component)}}]);
-//# sourceMappingURL=63.d66710d9.chunk.js.map
