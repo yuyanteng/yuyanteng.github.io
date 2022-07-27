@@ -8,7 +8,7 @@
   "theme_color": "blue",
   "icons": [
     {
-      "src": "./chengzi.png",
+      "src": "./firepng.png",
       "sizes": "144x144",
       "type": "image/png"
     }
