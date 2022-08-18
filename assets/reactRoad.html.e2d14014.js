@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,a as e,d as c}from"./app.b43460b0.js";const o={},d=e("h1",{id:"reactroad",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#reactroad","aria-hidden":"true"},"#"),c(" ReactRoad")],-1),s=[d];function _(n,i){return t(),r("div",null,s)}var l=a(o,[["render",_],["__file","reactRoad.html.vue"]]);export{l as default};
