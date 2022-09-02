@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d493b562","path":"/categories/baijiaqifang/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};
